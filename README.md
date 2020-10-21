@@ -10,11 +10,14 @@
   * [Questions](#questions)
   ## Description
   Create a command line application that dynamically generates a README.md from user's input
+  
   ## Installation 
   clone repo from GitHub:https://github.com/rbozal1/HW09-Node.js-Professional-README-Generator'
   ## Usage 
-  run: node index
+  run: node index.js
   ## License
+  ![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+  <br />
   Apache
   ## Contributors
   Roxhers Bozali

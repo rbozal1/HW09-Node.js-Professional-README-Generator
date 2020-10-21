@@ -80,6 +80,7 @@ function init() {
         console.log(answers);
        
         writeToFile("README.md", response);
+        console.log('✔️  Successfully wrote to README.md');
     })    
 }
 

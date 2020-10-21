@@ -11,11 +11,14 @@ function generateMarkdown(data) {
   * [Questions](#questions)
   ## Description
   ${data.description}
+  
   ## Installation 
   ${data.installation}
   ## Usage 
   ${data.usage}
   ## License
+  ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+  <br />
   ${data.license}
   ## Contributors
   ${data.contributors}
