@@ -32,9 +32,9 @@ const questions = [
     name: "license",
     message: "Chose the appropriate license for this project: ",
     choices: [
-        "APACHE 2.0",
-        "GPL 3.0",
-        "BSD 3",
+        "APACHE2.0",
+        "GPL3.0",
+        "BSD3",
         "MIT",
         "None"
     ]

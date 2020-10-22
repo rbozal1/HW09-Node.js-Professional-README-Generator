@@ -1,6 +1,8 @@
 
   # Professional-README-Generator
-  ![badge](https://img.shields.io/badge/license-APACHE 2.0-brightgreen)<br /> 
+  ![License](https://img.shields.io/badge/License-APACHE2.0-blue.svg)<br />
+  
+
 
   ## Description
   Create a command line application that dynamically generates a README.md from user's input.
@@ -20,17 +22,17 @@
 
   ## Usage 
   node index.js
-  
+
   ## License
-  ![badge](https://img.shields.io/badge/license-APACHE 2.0-brightgreen)
+  ![License](https://img.shields.io/badge/License-APACHE2.0-blue.svg)
   <br />
-  APACHE 2.0
+  APACHE2.0
   ## Contributors
   Roxhers Bozali
   ## Test
-  No
+  no
   ## Questions
   Contact me:
   Github:[rbozal1](https://github.com/rbozal1)
-  Email:[roxhersbozali@gmai.com](https://github.com/rbozal1)
+  Email:[roxhersbozali@gmail.com](https://github.com/rbozal1)
   
